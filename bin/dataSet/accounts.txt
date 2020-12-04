@@ -1,0 +1,3 @@
+Librarian, admin, administration, account, 01234567890, 01234 567890, 123 Administration, Tawe, Wales, SA12 AD1, book.png, 1970/01/01
+User, johndoe, john, doe, 07123456789, 01656 123456, 123 John Street, Bridgend, Wales, CF33 SA1, johndoePicture.png, money:124.5, searchHitory:[]
+User, janedoe, jane, doe, 07987654321, 01656 654321, 123 Jane Street, Bridgend, Wales, CF33 SA1, book.png, money:0.0, searchHitory:[]
